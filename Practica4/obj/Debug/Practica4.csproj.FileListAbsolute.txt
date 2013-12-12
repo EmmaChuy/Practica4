@@ -1,0 +1,5 @@
+C:\Users\Toshiba\Documents\GitHub\Practica4\Practica4\obj\Debug\Practica4.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\GitHub\Practica4\Practica4\bin\Debug\Practica4.exe
+C:\Users\Toshiba\Documents\GitHub\Practica4\Practica4\bin\Debug\Practica4.pdb
+C:\Users\Toshiba\Documents\GitHub\Practica4\Practica4\obj\Debug\Practica4.exe
+C:\Users\Toshiba\Documents\GitHub\Practica4\Practica4\obj\Debug\Practica4.pdb
